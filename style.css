@@ -10,3 +10,19 @@ th {
 td {
     border: 1px solid black;
 }
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+input[type="text"] {
+    background-color: blue;
+}
+
+button {
+    margin: 10px;
+    background-color: green;
+    border-radius: 4px;
+    cursor: pointer;
+}
