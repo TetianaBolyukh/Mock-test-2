@@ -16,7 +16,6 @@ td {
     width: 33.33%;
 }
 
-/* Clear floats after the columns */
 .row:after {
     content: "";
     display: table;
@@ -24,10 +23,9 @@ td {
 }
 a {
     color: lightskyblue;
-    text-decoration: none; /* Optional: removes the underline */
+    text-decoration: none;
 }
 
-/* Link color when hovered */
 a:hover {
-    color: blue; /* Change to any color you like */
+    color: blue; 
 }
