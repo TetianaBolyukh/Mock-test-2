@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info-tech>
+    <tech>
+        <name>1</name>
+        <company>a</company>
+        <version desc='sss'>1</version>
+    </tech>
+    <tech>
+        <name>2</name>
+        <company>b</company>
+        <version desc='sss'>2</version>
+    </tech>
+    <tech>
+        <name>3</name>
+        <company>c</company>
+        <version desc='sss'>3</version>
+    </tech>
+    <tech>
+        <name>4</name>
+        <company>d</company>
+        <version desc='sss'>4</version>
+    </tech>
+</info-tech>
